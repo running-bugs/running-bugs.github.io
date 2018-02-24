@@ -1,12 +1,7 @@
-## Welcome to GitHub Pages
+# Welcome to running-bugs```<奔跑的虫子>``` Pages
 
-You can use the [editor on GitHub](https://github.com/running-bugs/running-bugs.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[百度直连](http://www.baidu.com)
+![Image](http://img.zcool.cn/community/01595957750ca10000018c1b8a3b00.jpg@2o.jpg)
 
 ```markdown
 Syntax highlighted code block
