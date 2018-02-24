@@ -1,4 +1,4 @@
-# Welcome to running-bugs```<奔跑的虫子>``` Pages
+# Welcome to running-bugs Pages
 
 [百度直连](http://www.baidu.com)
 ![Image](http://img.zcool.cn/community/01595957750ca10000018c1b8a3b00.jpg@2o.jpg)
